@@ -1,8 +1,8 @@
-- name: LOD2建築物モデル自動生成ツール
+- name: LOD2建築物モデル自動作成ツール
   href: ../index.md
 - name: 利用を開始する
   items:
-  - name: LOD2建築物モデル自動生成ツール
+  - name: LOD2建築物モデル自動作成ツール
     items:
     - name: 環境構築手順書
       href: devManLod2Bldg.md
