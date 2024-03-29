@@ -105,16 +105,6 @@
     },
     {
       "type": "Resource",
-      "source_relative_path": "resources/devManAtlas/Thumbs.db",
-      "output": {
-        "resource": {
-          "relative_path": "resources/devManAtlas/Thumbs.db"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Resource",
       "source_relative_path": "resources/devManAtlas/devManAtlas_001.png",
       "output": {
         "resource": {
